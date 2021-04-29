@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Мехмат\___ПРОГА\___ВЫЧКА\Game\Game\MyForm.h(337,35): warning C4101: 'e': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Game.vcxproj -> D:\Мехмат\___ПРОГА\___ВЫЧКА\Game\Debug\Game.exe

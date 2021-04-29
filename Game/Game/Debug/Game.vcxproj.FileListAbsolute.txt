@@ -1,0 +1,3 @@
+D:\Мехмат\___ПРОГА\___ВЫЧКА\Game\Game\Debug\Game.vcxprojAssemblyReference.cache
+D:\Мехмат\___ПРОГА\___ВЫЧКА\Game\Game\Debug\Game.MyForm.resources
+D:\Мехмат\___ПРОГА\___ВЫЧКА\Game\Game\Debug\Game.vcxproj.GenerateResource.cache
