@@ -1,0 +1,9 @@
+D:\Мехмат\___ПРОГА\Новая папка\LB1\LB1\Debug\LB1.vcxprojAssemblyReference.cache
+D:\Мехмат\___ПРОГА\Новая папка\LB1\LB1\Debug\LB1.MyForm.resources
+D:\Мехмат\___ПРОГА\Новая папка\LB1\LB1\Debug\LB1.vcxproj.GenerateResource.cache
+D:\Мехмат\___ПРОГА\___ПРОГА\LB1\LB1\Debug\LB1.vcxprojAssemblyReference.cache
+D:\Мехмат\___ПРОГА\___ПРОГА\LB1\LB1\Debug\LB1.MyForm.resources
+D:\Мехмат\___ПРОГА\___ПРОГА\LB1\LB1\Debug\LB1.vcxproj.GenerateResource.cache
+D:\Мехмат\___ПРОГА\___ВЫЧКА\LB0\LB1\Debug\LB1.vcxprojAssemblyReference.cache
+D:\Мехмат\___ПРОГА\___ВЫЧКА\LB0\LB1\Debug\LB1.MyForm.resources
+D:\Мехмат\___ПРОГА\___ВЫЧКА\LB0\LB1\Debug\LB1.vcxproj.GenerateResource.cache
